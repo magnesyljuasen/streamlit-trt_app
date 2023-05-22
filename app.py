@@ -15,8 +15,6 @@ import random
 #import time
 import matplotlib.pyplot as plt
 import pandas as pd
-import altair as alt
-from altair_saver import save
 from docx import Document
 from docx.shared import Inches
 from docx.enum.style import WD_STYLE_TYPE
